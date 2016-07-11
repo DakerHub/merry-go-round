@@ -142,7 +142,3 @@
                   }
    
 })(jQuery);
-
-$(document).ready(function(){
-   $('.container').rotate();
-});
