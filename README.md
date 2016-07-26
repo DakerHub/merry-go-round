@@ -18,4 +18,5 @@ This plugin needs some html statement.such as:
                 		<a href="javascript:;" class="ctl"></a>
               </div>
               
-The number of images must be odd.
+The number of the image must be odd.
+But this plugin rely on too much html and css code;
