@@ -2,7 +2,7 @@
 It's a jQuery plugin,the function is a viwepager.
 
 This plugin needs some html statement.such as:
-                 
+              <script src="rotate.js"></script>
               <div class="container">
                 		<ul>
                 		  <li><img src="pics/4.jpg"></li>
@@ -12,9 +12,11 @@ This plugin needs some html statement.such as:
                 			<li><img src="pics/5.jpg"></li>
                 			<li><img src="pics/6.jpg"></li>
                 			<li><img src="pics/7.jpg"></li>
-                			
                 		</ul>
               </div>
+              <script>
+                   $('.container').rotate();
+              </script>
   默认参数配置：{
                   width:1000,//容器的宽度<br/>
                   height:376,//容器以及图片的高度<br/>
