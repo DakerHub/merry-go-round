@@ -2,7 +2,7 @@
 It's a jQuery plugin,the function is a viwepager.
 
 This plugin needs some html statement.such as:
-              <script src="rotate.js"></script>
+              //引用脚本
               <div class="container">
                 		<ul>
                 		  <li><img src="pics/4.jpg"></li>
