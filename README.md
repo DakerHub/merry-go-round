@@ -2,17 +2,17 @@
 It's a jQuery plugin,the function is a viwepager.
 <code>
 This plugin needs some html statement.such as:
-              <div class="container">
+              <di v class="container">
                 		<ul>
-                		  <li><img src=""></li>
-                			<li><img src=""></li>
-                			<li><img src=""></li>
-                			<li><img src=""></li>
-                			<li><img src=""></li>
-                			<li><img src=""></li>
-                			<li><img src=""></li>
+                		  <l i><im g src=""></l i>
+                			<l i><im g src=""></l i>
+                			<l i><im g src=""></l i>
+                			<l i><im g src=""></l i>
+                			<l i><im g src=""></l i>
+                			<l i><im g src=""></l i>
+                			<l i><im g src=""></l i>
                 		</ul>
-              </div>
+              </di v>
               
               <script>
                    $('.container').rotate();
