@@ -2,7 +2,7 @@
 It's a jQuery plugin,the function is a viwepager.
 <code>
 This plugin needs some html statement.such as:
-              <di v class="container">
+              "<di v class="container">
                 		<ul>
                 		  <l i><im g src=""></l i>
                 			<l i><im g src=""></l i>
@@ -12,7 +12,7 @@ This plugin needs some html statement.such as:
                 			<l i><im g src=""></l i>
                 			<l i><im g src=""></l i>
                 		</ul>
-              </di v>
+              </di v>"
               
               <script>
                    $('.container').rotate();
