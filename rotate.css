@@ -1,0 +1,26 @@
+.container {
+	margin:10px auto;
+	position:relative;
+	height:376px;
+	width:1000px;
+}
+.ctl {
+	opacity: 0.5;
+	display: block;
+	height:50px;
+	width:50px;
+	position:absolute;
+	left:0;
+	top:0;
+	z-index: 99;
+}
+.ctl:hover{
+    opacity:1;
+    filter:alpha(opacity=100);
+}
+.ctl_left {
+	background: url(pics/left_round.png) no-repeat center center;
+}
+.ctl_right {
+	background: url(pics/right_round.png) no-repeat center center;
+}
